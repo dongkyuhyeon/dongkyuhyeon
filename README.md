@@ -20,5 +20,5 @@
 ## Tech Stack
 - Python
 - PyTorch
-- Hugging Face
-- Transformers
+- Java
+- C++
