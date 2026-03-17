@@ -1,6 +1,5 @@
 # Hi, I'm Dongkyuhyeon 👋
 
-컴퓨터공학을 공부하며 LLM Quantization, On-Device AI, Physical AI, and Applied Reinforcement Learning에 관심을 가지고 있습니다.
 
 ## Interests
 - LLM Quantization
