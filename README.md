@@ -1,5 +1,3 @@
-# Hi, I'm Dongkyuhyeon 👋
-
 <p align="center">
   <img src="./assets/neural-pulse-lattice.svg" alt="Dongkyuhyeon — AI Research, LLM Systems and Continual Learning" width="100%" />
 </p>
