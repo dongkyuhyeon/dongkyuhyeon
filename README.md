@@ -20,14 +20,15 @@
 
 ---
 
-## Interests
-- LLM Quantization
-- On-Device AI
-- Physical AI
-- Applied Reinforcement Learning
-- Inference Optimization
-- Continual Learning and effective Fine-Tuning
-- Building Effective Agents
+## Research Interests
+
+- **Efficient LLM Inference & Optimization** — KV Cache, Attention Optimization, Quantization (PTQ/QAT)
+- **On-Device & Edge AI** — Lightweight Language Models, Memory-Efficient Inference, Model Compression
+- **Continual Learning & Adaptive AI** — General Continual Learning, Class-Incremental Learning, Representation Learning
+- **Parameter-Efficient Fine-Tuning (PEFT)** — LoRA/QLoRA, Expert Routing, Efficient Model Adaptation
+- **LLM-Based Agents & Systems** — Agentic Workflows, Tool Use, Inference Serving
+- **Reinforcement Learning** — Policy Optimization (PPO), Decision-Making, Agent Learning
+- **Physical AI & World Models** — Environment Understanding, Learning Dynamics
 
 ## My Paper
 - **[HS-JEPA: A JEPA-Inspired Predictive Multi-View Framework for Human Life Logs](https://d2j16w31g89z0j.cloudfront.net/site/ictc2026/abs/P5-9.pdf)**  
